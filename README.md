@@ -2,22 +2,14 @@
 
 A Ecommerce Website made with React.js Framework.
 
+#Demo 
 
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
+https://ecommerce-lavesh-react.netlify.app/
 
 ## Features
 
 - Easy to integrate with Backend
 - Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
 
 ## Run Locally
 
@@ -60,8 +52,5 @@ Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
 
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
